@@ -7,7 +7,6 @@ use Illuminate\Database\Eloquent\Collection;
 use PHPUnit\Framework\TestCase;
 
 
-use PHPUnit\Framework\TestCase;
 
 class UserTest extends TestCase
 {
